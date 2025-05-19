@@ -4,7 +4,7 @@
         data: "2025-06-05",
         horario: "21:00",
         tipo_ingressos: "vip",
-        banner: "../images/image0.jpg"
+        banner: "./images/image0.jpg"
     },
     {
         artista: "Titãs",
@@ -12,7 +12,7 @@
         data: "2025-06-10",
         horario: "21:00",
         tipo_ingressos: "pista",
-        banner: "../images/image1.jpg"
+        banner: "./images/image1.jpg"
     },
     {
         artista: "Capital Inicial",
@@ -20,7 +20,7 @@
         data: "2025-06-14",
         horario: "21:00",
         tipo_ingressos: "premium",
-        banner: "../images/image2.jpg"
+        banner: "./images/image2.jpg"
     },
     {
         artista: "Paralamas do Sucesso",
@@ -28,7 +28,7 @@
         data: "2025-06-18",
         horario: "21:00",
         tipo_ingressos: "meia entrada",
-        banner: "../images/image3.jpg"
+        banner: "./images/image3.jpg"
     },
     {
         artista: "Engenheiros do Hawaii",
@@ -36,7 +36,7 @@
         data: "2025-06-22",
         horario: "21:00",
         tipo_ingressos: "inteira",
-        banner: "../images/image4.jpg"
+        banner: "./images/image4.jpg"
     },
     {
         artista: "Barão Vermelho",
@@ -44,7 +44,7 @@
         data: "2025-06-26",
         horario: "21:00",
         tipo_ingressos: "vip",
-        banner: "../images/image5.jpg"
+        banner: "./images/image5.jpg"
     },
     {
         artista: "Os Mutantes",
@@ -52,7 +52,7 @@
         data: "2025-06-30",
         horario: "21:00",
         tipo_ingressos: "pista",
-        banner: "../images/image6.jpg"
+        banner: "./images/image6.jpg"
     },
     {
         artista: "Ira!",
@@ -60,7 +60,7 @@
         data: "2025-07-04",
         horario: "21:00",
         tipo_ingressos: "premium",
-        banner: "../images/image7.jpg"
+        banner: "./images/image7.jpg"
     },
     {
         artista: "Nenhum de Nós",
@@ -68,7 +68,7 @@
         data: "2025-07-08",
         horario: "21:00",
         tipo_ingressos: "meia entrada",
-        banner: "../images/image8.jpg"
+        banner: "./images/image8.jpg"
     },
     {
         artista: "Skank",
@@ -76,7 +76,7 @@
         data: "2025-07-12",
         horario: "21:00",
         tipo_ingressos: "inteira",
-        banner: "../images/image9.jpg"
+        banner: "./images/image9.jpg"
     },
     {
         artista: "Charlie Brown Jr.",
@@ -84,7 +84,7 @@
         data: "2025-07-16",
         horario: "21:00",
         tipo_ingressos: "vip",
-        banner: "../images/image0.jpg"
+        banner: "./images/image0.jpg"
     },
     {
         artista: "O Rappa",
@@ -92,7 +92,7 @@
         data: "2025-07-20",
         horario: "21:00",
         tipo_ingressos: "pista",
-        banner: "../images/image1.jpg"
+        banner: "./images/image1.jpg"
     },
     {
         artista: "Pato Fu",
@@ -100,7 +100,7 @@
         data: "2025-07-24",
         horario: "21:00",
         tipo_ingressos: "premium",
-        banner: "../images/image2.jpg"
+        banner: "./images/image2.jpg"
     },
     {
         artista: "Detonautas",
@@ -108,7 +108,7 @@
         data: "2025-07-28",
         horario: "21:00",
         tipo_ingressos: "meia entrada",
-        banner: "../images/image3.jpg"
+        banner: "./images/image3.jpg"
     },
     {
         artista: "Jota Quest",
@@ -116,7 +116,7 @@
         data: "2025-08-01",
         horario: "21:00",
         tipo_ingressos: "inteira",
-        banner: "../images/image4.jpg"
+        banner: "./images/image4.jpg"
     },
     {
         artista: "Fresno",
@@ -124,7 +124,7 @@
         data: "2025-08-05",
         horario: "21:00",
         tipo_ingressos: "vip",
-        banner: "../images/image5.jpg"
+        banner: "./images/image5.jpg"
     },
     {
         artista: "CPM 22",
@@ -132,7 +132,7 @@
         data: "2025-08-09",
         horario: "21:00",
         tipo_ingressos: "pista",
-        banner: "../images/image6.jpg"
+        banner: "./images/image6.jpg"
     },
     {
         artista: "Pitty",
@@ -140,7 +140,7 @@
         data: "2025-08-13",
         horario: "21:00",
         tipo_ingressos: "premium",
-        banner: "../images/image7.jpg"
+        banner: "./images/image7.jpg"
     },
     {
         artista: "Biquini Cavadão",
@@ -148,7 +148,7 @@
         data: "2025-08-17",
         horario: "21:00",
         tipo_ingressos: "meia entrada",
-        banner: "../images/image8.jpg"
+        banner: "./images/image8.jpg"
     },
     {
         artista: "Lobão",
@@ -156,7 +156,7 @@
         data: "2025-08-21",
         horario: "21:00",
         tipo_ingressos: "inteira",
-        banner: "../images/image9.jpg"
+        banner: "./images/image9.jpg"
     },
     {
         artista: "Camisa de Vênus",
@@ -164,7 +164,7 @@
         data: "2025-08-25",
         horario: "21:00",
         tipo_ingressos: "vip",
-        banner: "../images/image0.jpg"
+        banner: "./images/image0.jpg"
     },
     {
         artista: "Matanza",
@@ -172,7 +172,7 @@
         data: "2025-08-29",
         horario: "21:00",
         tipo_ingressos: "pista",
-        banner: "../images/image1.jpg"
+        banner: "./images/image1.jpg"
     },
     {
         artista: "Raimundos",
@@ -180,7 +180,7 @@
         data: "2025-09-02",
         horario: "21:00",
         tipo_ingressos: "premium",
-        banner: "../images/image2.jpg"
+        banner: "./images/image2.jpg"
     },
     {
         artista: "Tihuana",
@@ -188,7 +188,7 @@
         data: "2025-09-06",
         horario: "21:00",
         tipo_ingressos: "meia entrada",
-        banner: "../images/image3.jpg"
+        banner: "./images/image3.jpg"
     },
     {
         artista: "Dead Fish",
@@ -196,7 +196,7 @@
         data: "2025-09-10",
         horario: "21:00",
         tipo_ingressos: "inteira",
-        banner: "../images/image4.jpg"
+        banner: "./images/image4.jpg"
     },
     {
         artista: "Autoramas",
@@ -204,7 +204,7 @@
         data: "2025-09-14",
         horario: "21:00",
         tipo_ingressos: "vip",
-        banner: "../images/image5.jpg"
+        banner: "./images/image5.jpg"
     },
     {
         artista: "Supercombo",
@@ -212,7 +212,7 @@
         data: "2025-09-18",
         horario: "21:00",
         tipo_ingressos: "pista",
-        banner: "../images/image6.jpg"
+        banner: "./images/image6.jpg"
     },
     {
         artista: "Scalene",
@@ -220,7 +220,7 @@
         data: "2025-09-22",
         horario: "21:00",
         tipo_ingressos: "premium",
-        banner: "../images/image7.jpg"
+        banner: "./images/image7.jpg"
     },
     {
         artista: "O Surto",
@@ -228,7 +228,7 @@
         data: "2025-09-26",
         horario: "21:00",
         tipo_ingressos: "meia entrada",
-        banner: "../images/image8.jpg"
+        banner: "./images/image8.jpg"
     },
     {
         artista: "Nação Zumbi",
@@ -236,7 +236,7 @@
         data: "2025-09-30",
         horario: "21:00",
         tipo_ingressos: "inteira",
-        banner: "../images/image9.jpg"
+        banner: "./images/image9.jpg"
     }
 ];
   
