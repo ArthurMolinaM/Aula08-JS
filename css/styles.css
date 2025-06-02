@@ -71,3 +71,19 @@
   background-color: #003;
   color: #ffff;
 }
+
+.gallery{
+    columns: 300px;
+}
+
+
+.gallery img{
+    width: 100%;
+    display: block;
+    padding-top: 1rem;
+    position: .5s;
+}
+
+.gallery img:hover{
+    scale: 1.04;
+}

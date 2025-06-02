@@ -239,4 +239,89 @@
         banner: "./images/image9.jpg"
     }
 ];
+
+/*Objeto para criar a galeria*/
+export const galleryImages = [{
+        imagem: "./images/image010.jpg",
+        descricao: "Show explosivo com luzes intensas"
+    },
+    {
+        imagem: "./images/image018.jpg",
+        descricao: "Guitarras distorcidas e público vibrando"
+    },
+    {
+        imagem: "./images/image013.jpg",
+        descricao: "Banda tocando sob luz vermelha"
+    },
+    {
+        imagem: "./images/image3.jpg",
+        descricao: "Multidão pulando com energia total"
+    },
+    {
+        imagem: "./images/image4.jpg",
+        descricao: "Vocalista gritando com pura emoção"
+    },
+    {
+        imagem: "./images/image5.jpg",
+        descricao: "Palco iluminado em clima elétrico"
+    },
+    {
+        imagem: "./images/image1.jpg",
+        descricao: "Solo de guitarra arrepiando geral"
+    },
+    {
+        imagem: "./images/image7.jpg",
+        descricao: "Bateria pulsando no ritmo forte"
+    },
+    {
+        imagem: "./images/image8.jpg",
+        descricao: "Fogos, fumaça e riffs poderosos"
+    },
+    {
+        imagem: "./images/image16.jpg",
+        descricao: "Fãs cantando em uníssono emocionados"
+    },
+    {
+        imagem: "./images/image9.jpg",
+        descricao: "Ambiente escuro com luzes estroboscópicas"
+    },
+   
+    {
+        imagem: "./images/image011.jpg",
+        descricao: "Baixista comandando groove pesado demais"
+    },
+    {
+        imagem: "./images/image012.jpg",
+        descricao: "Plateia insana ao som distorcido"
+    },
+    {
+        imagem: "./images/image2.jpg",
+        descricao: "Performance energética com presença marcante"
+    },
+    {
+        imagem: "./images/image014.jpg",
+        descricao: "Gritos, riffs e pura rebeldia"
+    },
+    {
+        imagem: "./images/image015.jpg",
+        descricao: "Camisetas pretas e mãos levantadas"
+    },
+    {
+        imagem: "./images/image6.jpg",
+        descricao: "Cenário sombrio e som ensurdecedor"
+    },
+    {
+        imagem: "./images/image017.jpg",
+        descricao: "Banda incendiando o palco inteiro"
+    },
+    {
+        imagem: "./images/image018.jpg",
+        descricao: "Rock pesado em noite eletrizante"
+    },
+    {
+        imagem: "./images/image019.jpg",
+        descricao: "Vibração intensa dominando o público"
+    },
+];
+  
   
